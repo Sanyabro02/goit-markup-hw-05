@@ -725,10 +725,12 @@ body {
   cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-form-input-checkbox:checked + .modal-form-label-checkbox > modal-form-checkbox-icon {
-  background-color: var(#4D5AE5);
+.modal-form-input-checkbox:checked + 
+.modal-form-label-checkbox > 
+modal-form-checkbox-icon {
+  background-color: var(--OCEAN, #404BBF);
   border: none;
-  fill: var(#F4F4FD);
+  fill: var(--CLOUD, #F4F4FD);
 }
 .privacy-link{
   font-size: 12px;
