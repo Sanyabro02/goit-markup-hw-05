@@ -727,7 +727,7 @@ body {
 
 .modal-form-input-checkbox:checked + 
 .modal-form-label-checkbox > 
-modal-form-checkbox-icon {
+.modal-form-checkbox-icon {
   background-color: var(--OCEAN, #404BBF);
   border: none;
   fill: var(--CLOUD, #F4F4FD);
