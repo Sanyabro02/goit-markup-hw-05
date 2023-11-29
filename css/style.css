@@ -512,11 +512,7 @@ body {
 
 /* modal-window */
 
-.backdrop.is-open {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
-}
+
 .backdrop {
   position: fixed;
   top: 0;
