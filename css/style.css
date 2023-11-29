@@ -725,7 +725,7 @@ body {
 }
 
 .modal-form-input-checkbox:checked + .modal-form-label-checkbox > modal-form-checkbox-icon {
-  background-color: #404bbf;
+  background-color: var(--IRIS, #4D5AE5);
   border: none;
   fill: #f4f4fd;
 }
