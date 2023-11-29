@@ -728,9 +728,9 @@ body {
 .modal-form-input-checkbox:checked + 
 .modal-form-label-checkbox > 
 .modal-form-checkbox-icon {
-  background-color: var(#404BBF);
+  background-color: var(--OCEAN, #404BBF);
   border: none;
-  fill: var(#F4F4FD);
+  fill: var(--CLOUD, #F4F4FD);
 }
 .privacy-link{
   font-size: 12px;
